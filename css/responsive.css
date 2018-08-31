@@ -1,0 +1,14 @@
+@-ms-viewport {
+	width: device-width;
+}
+
+@viewport {
+	width: device-width;
+}
+
+@media screen and (max-width: 980px) {
+	body {padding: 0; margin: 0}
+	
+
+	#simple-menu {display: block; position: absolute; left: 0px; top: 8px; z-index: 6000}
+}

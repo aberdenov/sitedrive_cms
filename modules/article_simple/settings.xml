@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<module>
+<name>article_simple</name>
+<description>
+	<lang code="ru" id="1" default="yes">Статья (простая)</lang>
+	<lang code="en" id="2">Article (simple)</lang>
+	<lang code="kz" id="3">Статья (простая)</lang>
+</description>
+<settings add="no" unique="yes" self="no" title="Настройки">
+	<option name="show_title" description="Отображать заголовок статьи">true</option>
+	<option name="show_date" description="Отображать дату">false</option>
+	<option name="show_print" description="Отображать версию для печати">true</option>
+</settings>
+<labels add="yes" unique="yes" self="no" title="Оформление">
+	<label name="STR_PRINT_LINK">версия для печати</label>
+</labels>
+</module>

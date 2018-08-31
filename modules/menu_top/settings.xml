@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<module>
+<name>menu_top</name>
+<description>
+	<lang code="ru" id="1" default="yes">Меню сверху</lang>
+	<lang code="en" id="2">Menu top</lang>
+	<lang code="kz" id="3">Меню сверху</lang>
+</description>
+</module>

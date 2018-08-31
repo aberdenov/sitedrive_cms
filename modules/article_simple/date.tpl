@@ -1,0 +1,1 @@
+<div class="article_date">{ARTICLE_DATE}</div>

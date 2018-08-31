@@ -1,0 +1,1 @@
+<div class="article_title">{ARTICLE_TITLE}</div>

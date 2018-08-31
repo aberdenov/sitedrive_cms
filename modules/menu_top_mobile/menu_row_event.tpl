@@ -1,0 +1,1 @@
+<li {ACTIVE}><a href="javascript:void(0);" onclick="showForm(); $.sidr('close', 'sidr');">{TITLE}</a></li>
